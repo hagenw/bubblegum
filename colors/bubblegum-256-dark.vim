@@ -1,9 +1,9 @@
 " Vim Color File
-" Name:       bubblegum.vim
+" Name:       gum.vim
 " Version:    0.1
-" Maintainer: baskerville <nihilhill *at* gmail *dot* com>
+" Maintainer: hagenw <hagenw *at* posteo *dot* de>
 "
-" Based on xoria256.
+" Based on xoria256 and bubblegum (https://github.com/baskerville/bubblegum).
 
 set background=dark
 hi clear
@@ -12,7 +12,7 @@ if exists("syntax on")
     syntax reset
 endif
 
-let g:colors_name="bubblegum"
+let g:colors_name="gum"
 
 "
 " preferred groups
