@@ -5,6 +5,13 @@
 "
 " Based on xoria256 and bubblegum (https://github.com/baskerville/bubblegum).
 
+"
+" A good background color for this theme would be 238 (#444444).
+"
+" For a list of the 256 available colors, see
+" https://upload.wikimedia.org/wikipedia/commons/1/15/Xterm_256color_chart.svg
+"
+
 set background=dark
 hi clear
 
